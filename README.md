@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -project_1             |  -ML classification based on product category             |https://github.com/philip-kwaning/project_1       |
+| 2 |  -ML_model            |  -Train a machine learning model to product category            | https://github.com/philip-kwaning/ML_model      |
+| 3 |  -project_2             |  -calculation of exchange rate         | https://github.com/philip-kwaning/project_2       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
